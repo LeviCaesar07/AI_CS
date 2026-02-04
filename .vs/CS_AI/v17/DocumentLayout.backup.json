@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rey\\source\\repos\\CS_AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\controllers\\lmstudioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\controllers\\lmstudioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\models\\webhookwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\models\\webhookwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\services\\lmstudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\services\\lmstudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|c:\\users\\rey\\source\\repos\\cs_ai\\cs_ai\\cs_ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F49361E8-EB14-4020-A774-E4006DCBE926}|CS_AI\\CS_AI.csproj|solutionrelative:cs_ai\\cs_ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebhookWA.cs",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Models\\WebhookWA.cs",
+              "RelativeDocumentMoniker": "CS_AI\\Models\\WebhookWA.cs",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Models\\WebhookWA.cs",
+              "RelativeToolTip": "CS_AI\\Models\\WebhookWA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T09:38:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LMStudioAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Controllers\\LMStudioAPI.cs",
+              "RelativeDocumentMoniker": "CS_AI\\Controllers\\LMStudioAPI.cs",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Controllers\\LMStudioAPI.cs",
+              "RelativeToolTip": "CS_AI\\Controllers\\LMStudioAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:39:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Program.cs",
+              "RelativeDocumentMoniker": "CS_AI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Program.cs",
+              "RelativeToolTip": "CS_AI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:11:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LmStudioService.cs",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Services\\LmStudioService.cs",
+              "RelativeDocumentMoniker": "CS_AI\\Services\\LmStudioService.cs",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Services\\LmStudioService.cs",
+              "RelativeToolTip": "CS_AI\\Services\\LmStudioService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA9wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:05:53.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CS_AI.csproj",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\CS_AI.csproj",
+              "RelativeDocumentMoniker": "CS_AI\\CS_AI.csproj",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\CS_AI.csproj",
+              "RelativeToolTip": "CS_AI\\CS_AI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T08:13:47.517Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebHookController.cs",
+              "DocumentMoniker": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Controllers\\WebHookController.cs",
+              "RelativeDocumentMoniker": "CS_AI\\Controllers\\WebHookController.cs",
+              "ToolTip": "C:\\Users\\Rey\\source\\repos\\CS_AI\\CS_AI\\Controllers\\WebHookController.cs",
+              "RelativeToolTip": "CS_AI\\Controllers\\WebHookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T09:40:51.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
