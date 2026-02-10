@@ -30,6 +30,8 @@ namespace LMStudioApi.Controllers
             SendMessage(result);
             return Ok(new { response = result });
         }
+
+        [HttpPost("sendMessage")]
         public void SendMessage(string messages)
         {
             var payload = new
